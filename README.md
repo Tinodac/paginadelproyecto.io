@@ -1,5 +1,5 @@
 # Proyecto Dispenser
-Hola! Somos alumnos de 5to año de la escuela tecnica N°7 E.E.S.T mas conocida como IMPA
+Hola! Somos Constantino da Costa , Leonel Fanello , Joaquin Cizmadija , Facundo Bruno Videla y Juan Cruz Valiente alumnos de 5to año de la escuela tecnica N°7 E.E.S.T mas conocida como IMPA.
 ![image](https://github.com/user-attachments/assets/c11c3ce9-bca1-42b5-9bf1-0f34e636fd9c)
 
 Nuestro proyecto anual se basa de un dispenser al cual se le puede asignar la cantidad de mililitros deseada de manera exacta , esto lo hacemos mediante un display junto a un teclado como el de una calculadora en el cual el usuario asigna la cantidad que desea hasta unos 800ml.
@@ -12,7 +12,7 @@ Los componentes que utilizamos son los siguientes:
 -Servo motor MG90S
 -Teclado matricial 4x4
 
-Luego de diseñar el proyecto nos pusimos manos a la obra
+Luego de diseñar el proyecto nos pusimos manos a la obra.
 Arrancamos haciendo el codigo en lenguaje C , ya con una base de este fuimos probando el circuito en el protoboard mientras puliamos el codigo para tenerlo perfecto.
 Ya con el codigo hecho el teclado matricial 4x4 no anduvo , entonces hicimos un codigo especifico para este para hacerlo andar o ver si fallaba , tuvimos la suerte que anduvo y seguimos con todo.
 Cuando terminamos el codigo fuimos a KiKad donde hicimos el circuito virtualmente para despues pasarlo a PCB Wizard para poder pasarlo a la placa de cobre. 

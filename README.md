@@ -21,3 +21,11 @@ Ya con el diseño en la placa hubo que reforzar algunas pistas ya que hacian fal
 Casi terminado el proyecto soldamos todo a la placa y lo probamos fisicamente.
 
 
+Las tareas fueron divididas entre los integrantes de la siguiente manera:
+Leonel Fanello:Planeamiento del conexionado del circuito y un aporte general en cada área del proyecto.
+Constantino da Costa: Armado y conexionado del Circuito.
+Juan Cruz Valiente y Joaquin Cizmadija : Programación del Circuito (Pi Pico).
+Facundo Bruno Videla:Abastecimiento de materiales y aporte en cada area del proyecto.
+
+
+
